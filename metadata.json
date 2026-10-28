@@ -1,0 +1,6 @@
+{
+  "name": "Barangay San Juan Management System",
+  "description": "Information and Resident Services Portal for Barangay San Juan, Licab, Nueva Ecija with Document Issuance, Resident Registrations, Approvals, Community Announcements, and Blotter Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
